@@ -1,0 +1,7 @@
+{
+  "name": "StereoBuddy Final",
+  "description": "A multimodal stereometry assistant for high school geometry problems with interactive 3D construction, step-by-step solutions, and notebook sketch generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
